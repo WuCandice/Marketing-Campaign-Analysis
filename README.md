@@ -21,3 +21,10 @@ To analyze seasonality, I'll focus on Sales Volume to gauge revenue fluctuations
 ### Step 2: Collect Data From Database
  <img width="856" alt="Screenshot 2024-01-07 at 16 05 58" src="https://github.com/WuCandice/Marketing-Campaign-Analysis/assets/127648422/471319fe-1c0f-4f1c-8e85-41aeaf2e2a6a"></p>
 Once I know what metrics I need to use, I would collect the data from the relevant database.
+
+### Step 3: Analyze Sales Seasonality with Visualizations
+<img width="1044" alt="Screenshot 2024-01-07 at 16 07 19" src="https://github.com/WuCandice/Marketing-Campaign-Analysis/assets/127648422/169fc3c6-dff1-42c3-b4f3-a20c1ff6c3b3"></p>
+I translated those datasets into powerbi and started to explore patterns. Based on these insights, dark green represents sales and yellow represents how the group of users interact with the website. I found that they had the first peak at new year, second peak at valentine’s day, third peak during summer holidays and fourth and fifth at thanksgiving and christmas. The Keyword Search Volume had the same pattern. They also had peak holiday seasons. I was able to determine that during these holiday seasons, the company had significant sales.
+
+
+
