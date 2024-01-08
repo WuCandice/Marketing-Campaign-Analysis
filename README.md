@@ -26,5 +26,17 @@ Once I know what metrics I need to use, I would collect the data from the releva
 <img width="1044" alt="Screenshot 2024-01-07 at 16 07 19" src="https://github.com/WuCandice/Marketing-Campaign-Analysis/assets/127648422/169fc3c6-dff1-42c3-b4f3-a20c1ff6c3b3"></p>
 I translated those datasets into powerbi and started to explore patterns. Based on these insights, dark green represents sales and yellow represents how the group of users interact with the website. I found that they had the first peak at new year, second peak at valentine’s day, third peak during summer holidays and fourth and fifth at thanksgiving and christmas. The Keyword Search Volume had the same pattern. They also had peak holiday seasons. I was able to determine that during these holiday seasons, the company had significant sales.
 
+### Step 4 (1) : Create Measures in Power BI
+<img width="947" alt="Screenshot 2024-01-07 at 16 09 11" src="https://github.com/WuCandice/Marketing-Campaign-Analysis/assets/127648422/0c373ab1-2194-4664-b52f-9adaed758a60"></p>
+Since all of the datasets don't obtain those metrics, I created measures in power bi. 
+And I was able to get insights about how each channel was performing. 
+
+### Step 4 (2): Analyze Campaign Effectiveness with Visualizations
+<img width="891" alt="Screenshot 2024-01-07 at 16 10 20" src="https://github.com/WuCandice/Marketing-Campaign-Analysis/assets/127648422/52bb4284-b8e0-4c09-a35d-d84e89d8aa35">
+The data reveals that the Search channel had the highest Attributed Sales, conversion rate, ROAS, and Net Profit, followed by Social. However, the Display channel shows a negative profit, with the lowest Conversion Rate and ROAS. Those insights indicate that we should invest more on search channels during the holiday season and optimize the display channel.
+
+## Optimize Marketing Campaigns
+
+
 
 
