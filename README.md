@@ -56,4 +56,14 @@ I utilized mySQL to discover which product categories they purchased the most. H
 <img width="1000" alt="Screenshot 2024-01-07 at 16 20 31" src="https://github.com/WuCandice/Marketing-Campaign-Analysis/assets/127648422/2fd09463-326f-44cd-950c-ec82479a27b4"></p>
 Additionally, I used SQL to find that the average number of transactions per customer per period is 5 times, and the average number of days since the last purchase is 43 days
 
+## Recommendations
+1. The highest points of sales, website traffic, and keyword searches were observed during the New
+Year's, Valentine’s Day, summer, and holiday seasons, suggesting that there is potential to optimize
+marketing strategies to enhance sales.</P>
+2. Allocate a larger budget to the highly effective search and social campaigns, while also incorporating display advertising to enhance awareness and acquire new users. </P>
+3. Based on historical data, our focus should be on women aged 35-39 who reside in New York. To improve customer retention, we should implement the following marketing strategies:</P>
+A.Utilize email campaigns that offer incentives to encourage customers to return. By sending targeted emails with personalized incentives, we can entice customers who have not made a purchase within 43 days to engage with our brand again.</P>
+B.Set up behavioral display campaigns specifically targeting customers who haven't made a purchase in the last 43 days. By displaying relevant ads to these customers based on their browsing behavior, we can increase the chances of re-engagement and improve our retention rate.</P>
+
+
 
