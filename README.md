@@ -13,3 +13,5 @@ What approach would you recommend taking in this scenario?
 ## Analysis Process
 <img width="498" alt="Screenshot 2024-01-07 at 15 52 00" src="https://github.com/WuCandice/Marketing-Campaign-Analysis/assets/127648422/3a56d1ad-8f51-44fe-ab78-143f43b2d9e5"></p>
 we'll walk through our strategic analytical process, beginning with the identification of key metrics, as crucial indicators of our performance. We then methodically collect pertinent data from our databases, crucial for the subsequent step—analyzing sales trends to uncover underlying patterns. Finally, we evaluate our campaign's effectiveness by measuring outcomes against our initial metrics, completing the cycle of data-driven decision-making and strategic insight.
+
+### Step 1: Identify Key Metrics
