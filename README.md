@@ -36,6 +36,12 @@ And I was able to get insights about how each channel was performing.
 The data reveals that the Search channel had the highest Attributed Sales, conversion rate, ROAS, and Net Profit, followed by Social. However, the Display channel shows a negative profit, with the lowest Conversion Rate and ROAS. Those insights indicate that we should invest more on search channels during the holiday season and optimize the display channel.
 
 ## Optimize Marketing Campaigns
+### Step 5 (1): Optimize Marketing Campaigns - Budget Allocation
+The client maintains a fixed budget allocation but wants to
+make minor adjustments based on performance.</p>
+For example, during the holiday season, the total budget is
+$100K, with $50K for search, $25K for social, and $25K for
+display. Given our performance analysis, we provided a strategic opportunity to optimize budget allocation for marketing campaigns. During the holiday season, we propose to reallocate the $100K budget to invest $10K more in search and remain the same for social channels, while reducing the display budget to $15K due to having the lowest performance. 
 
 
 
