@@ -18,3 +18,6 @@ we'll walk through our strategic analytical process, beginning with the identifi
 <img width="904" alt="Screenshot 2024-01-07 at 16 03 11" src="https://github.com/WuCandice/Marketing-Campaign-Analysis/assets/127648422/0c3739e2-60b1-4233-aad9-769f4d2a8cff"></p>
 To analyze seasonality, I'll focus on Sales Volume to gauge revenue fluctuations, while Web Traffic and Keyword Search Volume will provide insights into customer engagement on the website. To identify the campaign performance, I'll leverage Attributed Sales, Conversion Rate, and ROAS to measure campaign strategy efficacy and pinpoint opportunities for optimization.
 
+### Step 2: Collect Data From Database
+ <img width="856" alt="Screenshot 2024-01-07 at 16 05 58" src="https://github.com/WuCandice/Marketing-Campaign-Analysis/assets/127648422/471319fe-1c0f-4f1c-8e85-41aeaf2e2a6a"></p>
+Once I know what metrics I need to use, I would collect the data from the relevant database.
